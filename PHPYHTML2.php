@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<html lang = "es">
+<meta charset = "utf-8" />
 <head>
  <title>Html y PHP</title>
 <head/>

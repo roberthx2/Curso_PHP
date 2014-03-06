@@ -1,10 +1,9 @@
 <?php
 
-
 echo "<!DOCTYPE html>\n";
-echo "<html>
+echo "<html lang = "es">
+<meta charset= "utf-8" />
 <head>
-	<meta http-equiv=\"Content-type\" content=\"text/html; charset=utf-8\" />
 	<title>Practica #1</title>
 </head>
 <body>

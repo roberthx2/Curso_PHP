@@ -1,7 +1,9 @@
 <DOCTYPE! html>
-<html>
-<head><title>Comentarios.php</title></head>
-<meta http-equiv=\"Content-type\" content=\"text/html; charset=utf-8\" />
+<html lang = "es">
+<meta charset = "utf-8"/>
+	<head>
+		<title>Comentarios.php</title>
+	</head>
 <body>
 
 <?php
@@ -42,5 +44,4 @@
 ?>
 
 </body>
-
 </html>

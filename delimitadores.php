@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html>
+<html lang = "es">
+<meta charset = "utf-8"/>
 <body>
  <?php
   echo "<h1>Hola mundo!!!</h1>";
