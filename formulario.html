@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang = "es">
+<meta charset = "utf-8"/>
+<head>
+	<title>Formulario HTML</title>
+</head>
+<body>
+
+<form method = "GET" action = "procesar.php">
+Nombre:
+<input type = text name = "nombre" autofocus><br>
+
+Apellido: 
+<input type = text name = "apellido"><br>
+
+Estado:
+<select name = "estado">
+<option value = "estudiante">Estudiante</option>
+<option value = "profesor">Profesor</option>
+<option value = "jubilado">Jubilado</option>
+<option value = "otro">Otro</option>
+</select><br>
+
+Sexo:
+<input type = radio name = "genero">Masculino</input>
+<input type = radio name = "genero">Femenino</input><br>
+
+Comentarios: <br>
+<textarea name = "comentarios"></textarea>
+<input type = "submit" value = "Enviar">
+</form>
+
+
+</body>
+</html>
