@@ -1,3 +1,3 @@
-Autor: Angel Boscán
+Autor: Ãngel Boscï¿½n
 
-Aquí se encuentran los códigos que se utilizaran en el Curso Básico de PHP
+Aquï¿½ se encuentran los cï¿½digos que se utilizarÃ¡n en el Curso Bï¿½sico de PHP
